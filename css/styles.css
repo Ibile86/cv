@@ -1,0 +1,47 @@
+body {
+  background-color: #f0f8ff
+}
+
+hr {
+  Border-style: dotted none none;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+}
+
+h1 {
+  color: #66BFBF
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF
+}
+
+.t1 {
+  background-color: #EAF6F6;
+}
+
+.tedu {
+  background-color: #EAE3D2;
+}
+
+.trexp {
+  background-color: #EAE3D2;
+}
+
+.tski {
+  background-color: #DFE8CC;
+}
+
+.texp2 {
+  background-color: #DFE8CC;
+}
+
+.simg {
+  height: 100px;
+  width: 100px;
+}
